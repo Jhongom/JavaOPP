@@ -1,4 +1,4 @@
-package com.opp.opp;
+package com.opp.cuentas;
 
 public class Cuenta {
 
